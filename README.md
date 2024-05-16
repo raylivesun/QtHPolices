@@ -539,11 +539,16 @@ built in this guide by searching for
 @PayaraFishBot on Telegram. Power Up Your Jakarta EE Applications with
 Telegram Chatbots16
 
-[sales\@payara.fish](mailto:sales@payara.fish){.email} UK: +44 800 538
-5490 Intl: +1 888 239 8941 www.payara.fish   Payara Services Ltd 2024
-All Rights Reserved. Registered in England and Wales; Registration
-Number 09998946 Registered Office: Malvern Hills Science Park, Geraldine
-Road, Malvern, United Kingdom, WR14 3SZ Key takeaways
+[sales\@payara.fish](mailto:sales@payara.fish){.email}
+
+UK: +44 800 538 5490 Intl: +1 888 239 8941
+
+<http://www.payara.fish>
+
+   Payara Services Ltd 2024 All Rights Reserved. Registered in
+England and Wales; Registration Number 09998946 Registered Office:
+Malvern Hills Science Park, Geraldine Road, Malvern, United Kingdom,
+WR14 3SZ Key takeaways
 
 • The power of Telegram bots in automating tasks and enhancing user
 experiences. • The ease of integrating Telegram Bot API with Jakarta
